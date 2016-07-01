@@ -1,14 +1,7 @@
 ---
-author:
-  - name: CorridorDigital
-    url: 'https://www.youtube.com/user/CorridorDigital'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-07-01T05:27:18.592Z'
+sourcePath: _posts/2016-07-01-drone-star-wars.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=2ZLrs9gX73M'
 keywords:
   - duration
   - views
@@ -20,14 +13,13 @@ keywords:
   - flitetest
   - flite
   - patreon
-description: >-
-  AKA THE DRONE WARS, ATTACK OF THE DRONES HOW WE DID IT:
-  https://www.youtube.com/watch?v=vhR4QEEa5dw BEST DRONE PILOTS:
-  https://youtu.be/IpL9XRX6c6w CORRIDOR SWAG:
-  http://www.corridor-digital.com/store PATREON:
-  https://www.patreon.com/CorridorDigital ORIGINAL SCORE: BLAKUS
-  https://soundcloud.com/blakus-mfm/star-wars-the-drone-wars-corridor-digital-ost
-inLanguage: en
+related: []
+author:
+  - name: CorridorDigital
+    url: 'https://www.youtube.com/user/CorridorDigital'
+    avatar: {}
+dateModified: '2016-07-01T05:26:58.038Z'
+title: Drone Star Wars
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=2ZLrs9gX73M&feature=applinks'
     type: ios
@@ -65,17 +57,26 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=2ZLrs9gX73M'
-title: Drone Star Wars
-datePublished: '2016-07-01T05:25:24.095Z'
-dateModified: '2016-07-01T05:23:53.572Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  I was really excited to be involved with this project with the good guys at
+  Corridor Digital! It was a blast putting my own spin on Williams’ amazing
+  themes.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-01-drone-star-wars.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+# Drone Star Wars
+
+I was really excited to be involved with this project with the good guys at Corridor Digital! It was a blast putting my own spin on Williams' amazing themes.
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2ZLrs9gX73M%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2ZLrs9gX73M&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2ZLrs9gX73M%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
