@@ -1,0 +1,14 @@
+layout_spectrum: 0.3485496398061514
+typography_spectrum: 0.34089046507142484
+color:
+  brandStrength: 0.1865995298139751
+  lightness: 0.2118350917007774
+  saturation: 0.2111827691551298
+  rhythmicContrast: 0.6632639828603715
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: blakus
